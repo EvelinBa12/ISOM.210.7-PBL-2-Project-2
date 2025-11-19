@@ -1,1 +1,12 @@
 https://bsu.instructure.com/courses/172009/files/22277762/download?download_frd=1
+const profileData = {
+  studentName: "Charlie <Last Name>",
+  tagline: "Future-Focused Problem Solver in Digital Business",
+  currentYear: "Freshman",
+  major: "Business Information Systems",
+  gpa: 3.60,
+  photoUrl: "https://placehold.co/150x150/BA0C2F/FFFFFF/png?text=CHARLIE",
+  logoUrl: "https://placehold.co/40x40/BA0C2F/FFFFFF.png?text=BSU",
+  personalBio: "I’m a first-year student focused on systems that improve business outcomes.",
+  missionStatement: "Build secure, user-friendly systems that help organizations work smarter."
+};
